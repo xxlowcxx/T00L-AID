@@ -1,14 +1,9 @@
 # T00L-AID
-Next-gen toolchain for automation, recovery, data mapping and digital analysis.
-Designed to push from Android/iPad using Termux with encrypted GitHub token storage.
 
-## Features
-- Auto-push deployment pipeline
-- Secure encrypted token environment
-- Expandable module framework (/src + /modules)
-- Ready for grant funding + commercialization
-- Mobile-first DevOps
+Swiss-army of workarounds, extensions, ideas, and hacks for people's devices.
 
-## Mission
-To build tools that restore order from chaos.
-Recover, automate, visualize, secure.
+It started as Flipper Zero and an iPhone sharing each other's utilities. It grew and was never finished. The name comes from retro Kool-Aid flavours.
+
+PhantomSense, SpectraGuard, EchoTrap, and SENSEWAR were never T00L-AID. They stand alone.
+
+Owner: LowC. Toolaid.
